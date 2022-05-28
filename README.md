@@ -5,18 +5,20 @@ Computer Science Student
 University of the West Indies, St. Augustine
 
 - 🌱 I’m currently learning Cloud Computing and Computer Architecture
-- 💞️ I’m looking to collaborate on Computer Science Final Year Projects
+- 💞️ I’m looking to collaborating with other Student Developers
 - 📫 You can contact me at kushrajpollard@gmail.com
+- 🥅 Contribute to Open Source Projects
 - 😄 Pronouns: He/Him/They/Them
 
 
 
 ## ⚡ GITHUB STATS
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KGP117&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KGP117&show_icons=true&count_private=true&hide_border=true)  
 ![GitHub metrics](https://metrics.lecoq.io/KGP117)  
 
 
-## ⚡ Programming Languages
+
+## ⚡ Programming Languages/FrameWorks
 <img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' alt='C#' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/6132/6132222.png' alt='C++' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/174/174854.png' alt='HTML' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' alt='CSS' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='JavaScript' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968282.png' alt='Java' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968322.png' alt='NodeJS' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968350.png' alt='Python' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/2103/2103665.png' alt='R' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React' height='40'>  <img src='https://cdn-icons.flaticon.com/png/512/4492/premium/4492311.png?token=exp=1653710676~hmac=42ba48717644273de087756f3180642c' alt='SQL' height='40'>
 
 
