@@ -8,7 +8,7 @@ University of the West Indies, St. Augustine
 - 💞️ I’m looking to collaborating with other Student Developers
 - 📫 You can contact me at kushrajpollard@gmail.com
 - 🥅 Contribute to Open Source Projects
-- 😄 Pronouns: He/Him/They/Them
+- 😄 Pronouns: He/Him
 
 
 
