@@ -14,7 +14,6 @@ University of the West Indies, St. Augustine
 
 ## ⚡ GITHUB STATS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KGP117&show_icons=true&count_private=true&hide_border=true)  
-![GitHub metrics](https://metrics.lecoq.io/KGP117)  
 
 
 
@@ -28,7 +27,7 @@ University of the West Indies, St. Augustine
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733547.png' alt='Facebook' height='40'>](https://www.facebook.com/kushraj.pollard) 
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111432.png' alt='Github' height='40'>](https://github.com/KGP117) 
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png' alt='Instagram' height='40'>](https://www.instagram.com/kushrajpollard/) 
-[<img src='https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1653877778~hmac=709a86e133f1c1b3d0d5d607f8d8bad5' alt='linkedin' height='40'>](https://www.linkedin.com/in/kushraj-pollard-098742157/) 
+[<img src='https://cdn-icons-png.flaticon.com/128/3536/3536505.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kushraj-pollard-098742157/) 
 [<img src='https://cdn-icons-png.flaticon.com/512/5968/5968908.png' alt='Reddit' height='40'>](https://www.reddit.com/user/KGP1125) 
 [<img src='https://cdn-icons-png.flaticon.com/512/174/174872.png' alt='Spotify' height='40'>](https://open.spotify.com/user/312tu6wozo3xxscq4nm3jfxfvkuu) 
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111630.png' alt='Steam' height='40'>](https://steamcommunity.com/profiles/76561198823750809) 
