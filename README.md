@@ -1,11 +1,11 @@
 ## ⚡ INTRODUCTION
 ### **Hi, I’m Kushraj Pollard @KGP117 👋**
 
-Computer Science Student  
+Computer Science
 University of the West Indies, St. Augustine
 
-- 🌱 I’m currently studying for my BSc in Computer Science
-- 💞️ I’m looking to collaborating with other Student Developers
+- 🌱 I'm a BSc graudate in Computer Science
+- 💞️ I’m looking to collaborating with other Junior Developers
 - 📫 You can contact me at kushrajpollard@gmail.com
 - 🥅 Contribute to Open Source Projects
 - 😄 Pronouns: He/Him
@@ -13,12 +13,31 @@ University of the West Indies, St. Augustine
 
 
 ## ⚡ GITHUB STATS
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KGP117&show_icons=true&count_private=true&hide_border=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KGP117&show_icons=true&count_private=true&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KGP117&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KGP117&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KGP117&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 
-## ⚡ Programming Languages/FrameWorks
-<img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' alt='C#' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/6132/6132222.png' alt='C++' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/174/174854.png' alt='HTML' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' alt='CSS' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='JavaScript' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968282.png' alt='Java' height='40'>  <img src='https://cdn-icons-png.flaticon.com/128/518/518705.png' alt='Android' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968350.png' alt='Python' height='40'>  <img src='https://cdn-icons-png.flaticon.com/512/2103/2103665.png' alt='R' height='40'>  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/240px-Kotlin_Icon.svg.png' alt='Kotlin' height='40'>  <img src='https://cdn-icons-png.flaticon.com/128/2772/2772128.png' alt='SQL' height='40'>
+## ⚡ Programming Languages/FrameWorks  
+<p align="left">
+  <img src='https://cdn-icons-png.flaticon.com/512/6132/6132221.png' alt='C#' height='40'>
+  <img src='https://cdn-icons-png.flaticon.com/512/6132/6132222.png' alt='C++' height='40'>
+  <img src='https://cdn-icons-png.flaticon.com/512/174/174854.png' alt='HTML' height='40'>
+  <img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' alt='CSS' height='40'>
+  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='JavaScript' height='40'>
+  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968282.png' alt='Java' height='40'>
+  <img src='https://cdn-icons-png.flaticon.com/128/518/518705.png' alt='Android' height='40'>
+  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968350.png' alt='Python' height='40'>
+  <img src='https://cdn-icons-png.flaticon.com/512/2103/2103665.png' alt='R' height='40'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/240px-Kotlin_Icon.svg.png' alt='Kotlin' height='40'>
+  <img src='https://cdn-icons-png.flaticon.com/128/2772/2772128.png' alt='SQL' height='40'>
+</p>
+
 
 
 
