@@ -54,6 +54,12 @@ University of the West Indies, St. Augustine
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733579.png' alt='Twitter' height='40'>](https://twitter.com/kushraj_pollard) 
 [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCi-JgS78jKVteKJR1cv7yqw) 
 
+
+<!--<p align="center">
+  <a href="https://open.spotify.com/user/312tu6wozo3xxscq4nm3jfxfvkuu" target="_blank" rel="noopener noreferrer"><img src="https://novatorem-312tu6wozo3xxscq4nm3jfxfvkuu.vercel.app/api/spotify" alt="spotify now listening" width="420" /></a>
+</p>
+--->
+
 <!---
 KGP117/KGP117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
